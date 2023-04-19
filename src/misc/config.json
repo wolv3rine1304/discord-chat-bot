@@ -1,0 +1,23 @@
+{
+  "activity": {
+    "activities": [
+      {
+        "name": "With Life",
+        "type": 0
+      }
+    ],
+    "status": "online"
+  },
+  "chat": {
+    "url": "http://api.brainshop.ai/get",
+    "brainID": "174602",
+    "key": "Oy9dgg2SAbIbnz8u"
+  },
+  "misc": {
+    "channels": [
+      "1097530967268266124"
+    ],
+    "noMention": false,
+    "directMessage": true
+  }
+}
