@@ -10,8 +10,8 @@
   },
   "chat": {
     "url": "http://api.brainshop.ai/get",
-    "brainID": "174602",
-    "key": "Oy9dgg2SAbIbnz8u"
+    "brainID": "your_brainShop_BrainID_here",
+    "key": "your_brainShop_key_here"
   },
   "misc": {
     "channels": [
